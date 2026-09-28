@@ -1,6 +1,5 @@
 Q-HEL Go library used by the photo stack (go-srp).
 
-<!-- Q-HEL Go library. -->
 
 # go-srp 
 [![](https://api.travis-ci.org/kong/go-srp.svg)](https://travis-ci.org/kong/go-srp)
