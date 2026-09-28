@@ -1,8 +1,8 @@
-<!-- Q-HEL vendored fork note: This repository is a vendored copy of the go-srp source used by Q-HEL, rebranded under github.com/qsint-code/go-srp for reproducible/offline Q-HEL builds. -->
+<!-- Q-HEL Go library. -->
 
 # go-srp 
 [![](https://api.travis-ci.org/kong/go-srp.svg)](https://travis-ci.org/kong/go-srp)
-[![](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/kong/go-srp)
+[![](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/qsint-code/go-srp)
 
 _NOTE: This is a port of [node-srp](https://github.com/mozilla/node-srp) to Go. I recommend
 reading their README for general information about the use of SRP._
@@ -10,12 +10,12 @@ reading their README for general information about the use of SRP._
 ## Installation
 
 ```
-go get github.com/kong/go-srp
+go get github.com/qsint-code/go-srp
 ```
 
 ## Usage
 
-View [GoDoc](https://godoc.org/github.com/kong/go-srp) for full details
+View [GoDoc](https://godoc.org/github.com/qsint-code/go-srp) for full details
 
 To use SRP, first decide on they parameters you will use. Both client and server must
 use the same set.
