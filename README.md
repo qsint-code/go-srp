@@ -1,3 +1,5 @@
+Q-HEL Go library used by the photo stack (go-srp).
+
 <!-- Q-HEL Go library. -->
 
 # go-srp 
